@@ -1,4 +1,4 @@
-# WeatherApp
+# Weather-App
 A simple command-line Python app that gives weather info about any city using an api key
 
 ## Features
